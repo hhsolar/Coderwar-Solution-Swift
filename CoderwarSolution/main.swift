@@ -8,5 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
+let a = thirt(1234567)
+
+print(a)
 

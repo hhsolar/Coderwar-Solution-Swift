@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		18E918572047F2F400B8E57B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E918562047F2F400B8E57B /* main.swift */; };
+		18E9185E2047F30600B8E57B /* ARuleOfDivisibilityBy13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E9185D2047F30600B8E57B /* ARuleOfDivisibilityBy13.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		18E918532047F2F400B8E57B /* CoderwarSolution */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CoderwarSolution; sourceTree = BUILT_PRODUCTS_DIR; };
 		18E918562047F2F400B8E57B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		18E9185D2047F30600B8E57B /* ARuleOfDivisibilityBy13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARuleOfDivisibilityBy13.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 		18E918552047F2F400B8E57B /* CoderwarSolution */ = {
 			isa = PBXGroup;
 			children = (
+				18E9185D2047F30600B8E57B /* ARuleOfDivisibilityBy13.swift */,
 				18E918562047F2F400B8E57B /* main.swift */,
 			);
 			path = CoderwarSolution;
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18E9185E2047F30600B8E57B /* ARuleOfDivisibilityBy13.swift in Sources */,
 				18E918572047F2F400B8E57B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
