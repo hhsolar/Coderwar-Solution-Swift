@@ -42,4 +42,3 @@ func thirt(_ n: Int) -> Int {
     return result == n ? result : thirt(result)
 }
 
-
